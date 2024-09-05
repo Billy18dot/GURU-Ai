@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "917605902011;GURU;6281255369012;Ash"
+      "value": "27613106647;Mr-jones"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ"
+      "value": "FOREIGNER-MD"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -25,7 +25,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "GuruBot~pXHFi3XU"
     },
     "MODE": {
       "description": "mode public or private",
@@ -34,8 +34,8 @@
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -50,7 +50,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
@@ -60,7 +60,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
